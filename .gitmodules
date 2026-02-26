@@ -1,3 +1,6 @@
 [submodule "pix2pix-gans"]
 	path = pix2pix-gans
 	url = https://github.com/heemmanshuu/pix2pix-gans.git
+[submodule "jisha-pix2pix-gan"]
+	path = jisha-pix2pix-gan
+	url = https://github.com/jrajala6/jisha-pix2pix-gan
