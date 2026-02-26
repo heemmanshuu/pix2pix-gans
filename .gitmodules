@@ -1,0 +1,3 @@
+[submodule "pix2pix-gans"]
+	path = pix2pix-gans
+	url = https://github.com/heemmanshuu/pix2pix-gans.git
